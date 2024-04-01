@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Festivals</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Festivals</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#Dussera">Dussera</a></li>
+            <li><a href="#sankranthi">sankranthi</a></li>
+        </ul>
+    </nav>
+
+    <section id="Dussera">
+<h2>Dussera</h2>
+<img src="jasmineop.jpg" alt="jasmineop" width="200" height="200">
+        <ul>
+            <li>
+                
+                <h3>Anarkali Suit</h3>
+                <p>Anarkali suits are a classic choice for festive occasions like Dussehra. These floor-length dresses feature a fitted bodice and a flared skirt, often adorned with intricate embroidery, sequins, or zari work. They come in a variety of colors and designs, ranging from traditional to contemporary..</p>
+                <p>Price: 1050/-</p>
+                <button class="add-to-cart" data-name="Anarkali suit" data-price="1050/-">Add to Cart</button>
+            </li><li><a href="addtocartL.html">Add To Cart</a></li>
+                          </ul>
+              </div>
+
+            <li>
+                <img src="dandelionop.jpg" alt="Dandelion flowers">
+                <h3>Lehenga Choli</h3>
+                <p> Lehenga cholis are a traditional Indian outfit consisting of a flared skirt (lehenga), a fitted blouse (choli), and a dupatta. Dussehra is the perfect occasion to flaunt a beautifully embellished lehenga choli with intricate detailing and vibrant colors..</p>
+                <p>Price: 1100/-</p>
+                <button class="add-to-cart" data-name="Lehenga Choli" data-price="1100/-">Add to Cart</button>
+            </li><li><a href="addtocartL.html">Add To Cart</a></li>
+                          </ul>
+              </div>
+
+        </ul>
+    </section>
+
+    <section id="Sankranthi">
+        <h2>Dress types</h2>
+        <ul>
+            <li>
+                <img src="rbop.jpg" alt="Round bouquets">
+                <h3>Pattu Saree</h3>
+                <p>Embrace the timeless elegance of a pattu saree, also known as a silk saree, adorned with intricate zari work or traditional motifs. Opt for vibrant colors such as rich reds, royal blues, and auspicious yellows to symbolize prosperity and joy..</p>
+                <p>Price: 7850/-</p>
+                <button class="add-to-cart" data-name="Pattu Saree" data-price="7850/-">Add to Cart</button>
+            </li><li><a href="addtocartL.html">Add To Cart</a></li>
+                          </ul>
+              </div>
+
+            <li>
+                <img src="cascadeop.jpg" alt="Cascade bouquets">
+                <h3>Lehenga Choli</h3>
+                <p>Make a statement with a beautifully crafted lehenga choli set, perfect for twirling and dancing during Sankranthi festivities. Select from a variety of fabrics, including silk, chiffon, or georgette, and adornments such as gota patti, threadwork, or stone embellishments.</p>
+                <p>Price: 2500/-</p>
+                <button class="add-to-cart" data-name="Lehenga Choli" data-price="2500/-">Add to Cart</button>
+            </li><li><a href="addtocartL.html">Add To Cart</a></li>
+                          </ul>
+              </div>
+
+        </ul>
+    </section>
+
+     s
+</body>
+</html>
